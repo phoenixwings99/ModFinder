@@ -923,6 +923,23 @@
         "HomepageUrl": "https://github.com/pheonix99/LevelableAivu",
         "Tags": [ "Content", "Gameplay" ]
     },
+     {
+        "Name": "Libram Of The Phoenix",
+        "Author": "pheonix99",
+        "Id": {
+            "Id": "LibramOfThePhoenix",
+            "Type": "UMM"
+        },
+        "Service": {
+            "GitHub": {
+                "Owner": "phoenixwings199",
+                "RepoName": "/LibramOfThePhoenix"
+            }
+        },
+        "About": "Rebuild of Tome Of The Firebird, containing such things as my whim may cause me to add.",
+        "HomepageUrl": "https://github.com/phoenixwings99/LibramOfThePhoenix",
+        "Tags": [ "Miscellaneous", "Gameplay" ]
+    },
 
     {
         "Name": "Lich Decree Reductions",
