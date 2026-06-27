@@ -1860,7 +1860,40 @@
         "HomepageUrl": "https://github.com/BarleyFlour/RespecMod",
         "Tags": [ "Utilities" ]
     },
+{
+        "Name": "Relations and Romances",
+        "Author": "Ranadiel",
+        "Id": {
+            "Id": "RanRomance",
+            "Type": "UMM"
+        },
+        "Service": {
+            "Nexus": {
+                "ModID": "776"
+            }
+        },
+        "About": "Adds interactions with six NPCs in the game including potential romances. Also adds portraits to three of those NPCs (Targona, Terendelev, and Aranka).",
+        "HomepageUrl": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/776",
+        "Tags": [ "Romance", "Story" ]
+    },
 
+    {
+        "Name": "Resource Unification 2",
+        "Author": "pheonix99",
+        "Id": {
+            "Id": "ResourceUnification2",
+            "Type": "UMM"
+        },
+        "Service": {
+            "GitHub": {
+                "Owner": "phoenixwings99",
+                "RepoName": "ResourceUnification2"
+            }
+        },
+        "About": "Updated replacement for WotR Resource Unification. Makes resources like Ki, Arcane Pool, and Bombs work properly when multi-classing. ",
+        "HomepageUrl": "https://github.com/phoenixwings99/ResourceUnification2",
+        "Tags": [ "Gameplay" ]
+    },
     {
         "Name": "ScalingItemDCs",
         "Author": "Hambeard",
